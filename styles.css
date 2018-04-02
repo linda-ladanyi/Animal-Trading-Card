@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css?family=Bellefair");
+
+.card {
+  width: 320px;
+  height: 680px;
+  border: 1px solid #cca300; 
+  border-radius: 4px;
+  padding-left: 20px;
+  margin-left: 10px;
+  -webkit-box-shadow: 10px 10px 15px #909090;
+  box-shadow: 3px 3px 15px #909090;
+  }
+
+.title {
+  width: 300px;
+  background: #cca300;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  font-family: "Bellefair", monospace;
+  font-size: 17px;
+}
+
+.picture {
+  width: 300px;
+  border-radius: 4px;
+  }
+
+.card-info {
+  width: 288px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-top: 15px;
+  padding-left: 10px;
+  }
+
+.fact {
+  font-style: italic;
+  }
+
+.data {
+  list-style-type: none;
+  padding-left: 0;
+  }
+
+.label {
+  font-weight: bold;
+  }
+
+/* add your CSS here */
